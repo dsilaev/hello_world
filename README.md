@@ -2,4 +2,3 @@
 
 Just another repository
 
-Myself
